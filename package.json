@@ -1,0 +1,26 @@
+{
+  "name": "assert-object",
+  "version": "1.0.0",
+  "description": "Checks that two objects are equal and gives useful error message",
+  "main": "assert-object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actionably/assert-object.git"
+  },
+  "keywords": [
+    "testing",
+    "assert"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/actionably/assert-object/issues"
+  },
+  "homepage": "https://github.com/actionably/assert-object#readme",
+  "dependencies": {
+    "json-stable-stringify": "1.0.1"
+  }
+}
